@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("---pull---");
         System.out.println("---GitHub:2023/2/20---");
         System.out.println("---GitHub-remote branch:2023/2/20---");
+        System.out.println("---WMCT: 2023/2/20---");
     }
 }
